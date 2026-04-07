@@ -16,7 +16,7 @@ export const DATA = {
   location: "London, UK",
   locationLink: "https://www.google.com/maps/place/london",
   description:
-    "Co-founder of Joli. Biology graduate turned self-taught developer. Building tools for hospitality.",
+    "Building Joli. Previously Growth @ Trail (acquired).",
   summary:
     "In 2021, I quit my job as Head of Growth at Trail (acquired by The Access Group) to go fulltime into building [Joli](https://joliapp.com), the creator marketing platform for hospitality. In the past, [I studied biological sciences at Liverpool](/#education), [spent six years scaling a hospitality tech startup](/#work), and [taught myself to code](https://github.com/jamiefrew) along the way. Now we have 275+ brands, 60K+ content pieces, and 130M+ reach.",
   avatarUrl: "/me.jpg",
