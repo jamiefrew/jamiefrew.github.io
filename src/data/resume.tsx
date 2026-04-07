@@ -18,7 +18,7 @@ export const DATA = {
   description:
     "Building Joli. Previously Growth @ Trail (acquired).",
   summary:
-    "In 2021, I quit my job as Head of Growth at Trail (acquired by The Access Group) to go fulltime into building [Joli](https://joliapp.com), the creator marketing platform for hospitality. In the past, [I studied biological sciences at Liverpool](/#education), [spent six years scaling a hospitality tech startup](/#work), and [taught myself design and code](https://github.com/jamiefrew) along the way. Now we have 275+ brands, 60K+ content pieces, and 130M+ reach.",
+    "In 2021, I quit my job as Head of Growth at Trail (acquired by The Access Group) to go fulltime into building [Joli](https://joliapp.com), the creator marketing platform for hospitality. In the past, [I studied biological sciences at Liverpool](/#education), [spent six years scaling a hospitality tech startup](/#work), and taught myself design and code along the way. Now we have 275+ brands, 60K+ content pieces, and 130M+ reach.",
   avatarUrl: "/me.jpg",
   skills: [
     { name: "Go", icon: Golang },
@@ -38,7 +38,7 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/jamiefrew",
         icon: Icons.github,
-        navbar: true,
+        navbar: false,
       },
       LinkedIn: {
         name: "LinkedIn",
